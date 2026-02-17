@@ -1,0 +1,202 @@
+Age,Gender,Merital Status,Education,Residency,Employmet,Eonomic.Status,PHQ.9,PVSS.21,Persistance.of.ER,Intensity.of.ER,Emotional.Sensitivity,Desire.to.Die,Prepration.for.Suicide,Actual.Suicide.Desire,Adverse.Childhood.Experience.Total,PRT,Emotional.Reactivity,Class
+39,Female,Married,High School,Rural,Unemployed,Medium,11,127,11,18,28,0,0,0,1,0.34,57,No Risk
+39,Female,Married,High School,Rural,Unemployed,Medium,11,127,11,18,28,0,0,0,1,0.34,57,No Risk
+30,Male,Single,BA,Urban,Unemployed,Medium,18,90,11,18,32,3,6,1,1,0.230998339,61,Low Risk
+30,Male,Single,BA,Urban,Unemployed,Medium,18,90,11,18,32,3,6,1,1,0.230998339,61,Low Risk
+27,Female,Married,Diploma,Urban,Household,Poor,27,73,16,28,40,8,11,7,1,-0.08951782,60,High Risk
+33,Male,Single,BA,Urban,Unemployed,Poor,16,124,7,8,18,0,0,0,1,0.1,60,No Risk
+25,Male,Married,High School,Rural,Unemployed,Medium,17,111,4,8,8,0,0,0,1,0.36,20,No Risk
+42,Female,Married,BA,Rural,Employed,Good,20,107,16,26,38,1,0,0,1,0.36,22,No Risk
+42,Female,Married,BA,Rural,Employed,Good,20,107,16,26,38,1,0,0,1,0.36,22,No Risk
+42,Female,Married,BA,Rural,Employed,Good,20,107,16,26,38,1,0,0,1,0.36,22,No Risk
+23,Male,Single,BA,Rural,Student,Good,23,85,11,19,30,8,5,1,1,0,30,Low Risk
+39,Female,Married,High School,Rural,Unemployed,Medium,11,127,11,18,28,0,0,0,2,0.36,57,No Risk
+39,Male,Single,Diploma,Urban,Employed,Medium,13,127,7,11,16,3,0,0,2,-0.08951782,58,No Risk
+41,Female,Single,High School,Rural,Household,Medium,22,114,16,28,40,4,0,0,2,-0.087821022,58,No Risk
+43,Female,Single,High School,Urban,Unemployed,Medium,20,107,16,20,20,0,0,0,2,0.051535161,56,No Risk
+34,Female,Single,Diploma,Rural,Unemployed,Good,18,119,8,18,24,3,5,3,2,0.2303,50,Low Risk
+34,Female,Single,Diploma,Rural,Unemployed,Good,18,119,8,18,24,3,5,3,2,0.2303,50,Low Risk
+39,Female,Married,High School,Rural,Unemployed,Medium,11,127,11,18,28,0,0,0,2,0.36,22,No Risk
+43,Female,Single,High School,Urban,Unemployed,Medium,20,107,16,20,20,0,0,0,2,0.051535161,24,No Risk
+38,Male,Married,High School,Urban,Unemployed,Poor,21,98,12,23,36,5,8,2,2,0,33,Low Risk
+38,Male,Married,High School,Urban,Unemployed,Poor,21,98,12,23,36,5,8,2,2,0,33,Low Risk
+36,Female,Married,Diploma,Rural,Employed,Medium,19,110,16,24,34,5,2,1,3,0.230998339,20,Low Risk
+36,Female,Married,Diploma,Rural,Employed,Medium,19,110,16,24,34,5,2,1,3,0.230998339,20,Low Risk
+23,Male,Single,BA,Rural,Student,Good,23,85,11,19,30,8,5,1,3,0,30,Low Risk
+34,Female,Married,MA,Urban,Household,Medium,15,122,11,18,21,3,3,1,3,0,30,No Risk
+55,Female,Married,Diploma,Urban,Household,Medium,25,87,12,16,24,6,6,3,3,-0.02,52,Low Risk
+55,Female,Married,Diploma,Urban,Household,Medium,25,87,12,16,24,6,6,3,3,-0.02,52,Low Risk
+27,Male,Single,PhD,Rural,Unemployed,Medium,18,120,5,15,31,4,9,2,4,0.230998339,20,Low Risk
+27,Male,Single,PhD,Rural,Unemployed,Medium,18,120,5,15,31,4,9,2,4,0.230998339,20,Low Risk
+34,Female,Married,MA,Urban,Household,Medium,15,122,11,18,21,3,3,1,4,0,30,No Risk
+34,Female,Married,MA,Urban,Household,Medium,15,122,11,18,21,3,3,1,4,0,30,No Risk
+55,Female,Married,Diploma,Urban,Household,Medium,25,87,12,16,24,6,6,3,4,0.244,30,Low Risk
+38,Male,Married,High School,Urban,Unemployed,Poor,21,98,12,23,36,5,8,2,4,0,33,Low Risk
+25,Male,Single,BA,Rural,Employed,Very Good,16,129,11,15,22,0,0,0,5,-0.087821022,20,No Risk
+25,Male,Married,High School,Rural,Unemployed,Medium,17,111,4,8,8,0,0,0,5,0.36,20,No Risk
+25,Male,Single,BA,Rural,Employed,Very Good,16,129,11,15,22,0,0,0,5,0.34,20,No Risk
+34,Female,Married,MA,Urban,Household,Medium,15,122,11,18,21,3,3,1,5,-0.27,50,No Risk
+34,Female,Married,MA,Urban,Household,Medium,15,122,11,18,21,3,3,1,5,-0.27,50,No Risk
+39,Female,Married,High School,Rural,Unemployed,Medium,11,127,11,18,28,0,0,0,5,0.36,25,No Risk
+53,Female,Single,,Rural,Employed,Medium,18,105,7,17,22,2,0,0,5,-0.2,46,No Risk
+53,Female,Single,,Rural,Employed,Medium,18,105,7,17,22,2,0,0,5,-0.2,46,No Risk
+43,Female,Single,High School,Urban,Unemployed,Medium,20,107,16,20,20,0,0,0,5,0.245,25,No Risk
+33,Female,Married,Diploma,Rural,Household,Good,15,126,9,15,26,8,13,7,6,-0.513529116,57,High Risk
+25,Female,Married,Diploma,Rural,Unemployed,Medium,16,120,6,17,20,5,8,4,6,0.34,43,Moderate Risk
+25,Male,Single,BA,Rural,Employed,Very Good,16,129,11,15,22,0,0,0,6,0.230998339,24,No Risk
+57,Male,Married,Diploma,Rural,Employed,Medium,19,117,14,27,35,3,4,0,6,-0.101,60,No Risk
+22,Female,Single,Diploma,Rural,Unemployed,Poor,21,109,11,23,30,3,3,0,6,-0.08951782,60,No Risk
+33,Male,Single,BA,Urban,Unemployed,Poor,16,124,7,8,18,0,0,0,6,0.2303,33,No Risk
+33,Male,Single,BA,Urban,Unemployed,Poor,16,124,7,8,18,0,0,0,6,0.2303,33,No Risk
+41,Female,Single,High School,Rural,Household,Medium,22,114,16,28,40,4,0,0,6,-0.087821022,58,No Risk
+41,Female,Single,High School,Rural,Household,Medium,22,114,16,28,40,4,0,0,6,-0.087821022,58,No Risk
+33,Male,Single,High School,Rural,Employed,Medium,16,120,8,16,28,4,1,2,7,-0.266,76,No Risk
+34,Female,Single,Diploma,Rural,Unemployed,Good,18,119,8,18,24,3,5,3,7,-0.2224,75,Low Risk
+58,Male,Married,BA,Urban,Employed,Medium,27,106,16,24,24,7,0,0,7,-0.2,60,No Risk
+22,Female,Single,Diploma,Rural,Unemployed,Poor,21,109,11,23,30,3,3,0,7,-0.08951782,60,No Risk
+33,Male,Single,BA,Urban,Unemployed,Poor,16,124,7,8,18,0,0,0,7,-0.08951782,60,No Risk
+39,Male,Single,Diploma,Urban,Employed,Medium,13,127,7,11,16,3,0,0,7,-0.08951782,58,No Risk
+33,Male,Single,High School,Rural,Employed,Medium,16,120,8,16,28,4,1,2,7,-0.0096,52,No Risk
+33,Male,Single,High School,Rural,Employed,Medium,16,120,8,16,28,4,1,2,7,-0.0096,52,No Risk
+25,Male,Single,BA,Rural,Employed,Very Good,16,129,11,15,22,0,0,0,8,-0.087821022,20,No Risk
+53,Female,Single,,Rural,Employed,Medium,18,105,7,17,22,2,0,0,8,0.34,20,No Risk
+42,Female,Married,BA,Rural,Employed,Good,20,107,16,26,38,1,0,0,8,0.36,22,No Risk
+26,Female,Single,BA,Rural,Unemployed,Good,26,62,6,14,10,5,8,3,8,0.244,25,Moderate Risk
+26,Female,Single,BA,Rural,Unemployed,Good,26,62,6,14,10,5,8,3,8,0.244,25,Moderate Risk
+25,Male,Single,BA,Rural,Employed,Very Good,16,129,11,15,22,0,0,0,8,0.230998339,30,No Risk
+53,Female,Single,,Rural,Employed,Medium,18,105,7,17,22,2,0,0,8,-0.2,46,No Risk
+33,Male,Single,Diploma,Urban,Unemployed,Poor,14,124,16,24,38,3,7,3,9,0,78,Low Risk
+33,Male,Single,Diploma,Urban,Unemployed,Poor,14,124,16,24,38,3,7,3,9,0,78,Low Risk
+43,Female,Married,Diploma,Rural,Unemployed,Poor,21,49,10,19,29,6,4,0,9,-0.065506442,58,Low Risk
+43,Female,Married,Diploma,Rural,Unemployed,Poor,21,49,10,19,29,6,4,0,9,-0.065506442,58,Low Risk
+25,Female,Married,Diploma,Rural,Unemployed,Medium,16,120,6,17,20,5,8,4,10,-0.513529116,43,Moderate Risk
+53,Female,Single,,Rural,Employed,Medium,18,105,7,17,22,2,0,0,10,0.34,20,No Risk
+42,Female,Married,BA,Rural,Employed,Good,20,107,16,26,38,1,0,0,10,0.36,22,No Risk
+38,Male,Married,High School,Urban,Unemployed,Poor,21,98,12,23,36,5,8,2,10,0.17,71,Low Risk
+38,Male,Married,High School,Urban,Unemployed,Poor,21,98,12,23,36,5,8,2,10,0.17,71,Low Risk
+53,Female,Single,,Rural,Employed,Medium,18,105,7,17,22,2,0,0,10,0.34,50,No Risk
+25,Female,Married,Diploma,Rural,Unemployed,Medium,16,120,6,17,20,5,8,4,10,0.34,43,Moderate Risk
+23,Male,Single,BA,Rural,Student,Good,23,85,11,19,30,8,5,1,10,-0.183,30,Low Risk
+53,Female,Single,,Rural,Employed,Medium,18,105,7,17,22,2,0,0,10,-0.2,46,No Risk
+37,Female,Married,BA,Rural,Household,Good,22,50,15,20,29,7,7,6,10,-0.0096,57,Moderate Risk
+27,Male,Single,PhD,Rural,Unemployed,Medium,18,120,5,15,31,4,9,2,10,-0.07,51,Low Risk
+27,Male,Single,PhD,Rural,Unemployed,Medium,18,120,5,15,31,4,9,2,10,-0.07,51,Low Risk
+40,Female,Married,High School,Urban,Household,Poor,26,125,10,14,16,4,5,14,11,-0.513529116,40,Moderate Risk
+42,Female,Married,BA,Rural,Employed,Good,20,107,16,26,38,1,0,0,11,0.36,22,No Risk
+42,Female,Married,BA,Rural,Employed,Good,20,107,16,26,38,1,0,0,11,0.36,22,No Risk
+30,Male,Single,BA,Urban,Unemployed,Medium,18,90,11,18,32,3,6,1,11,0.230998339,61,Low Risk
+40,Female,Married,High School,Urban,Household,Poor,26,125,10,14,16,4,5,14,11,-0.183,40,Moderate Risk
+37,Female,Married,Diploma,Rural,Employed,Good,16,130,6,15,27,2,0,0,11,-0.1361,48,No Risk
+37,Female,Married,Diploma,Rural,Employed,Good,16,130,6,15,27,2,0,0,11,-0.1361,48,No Risk
+37,Female,Married,Diploma,Rural,Employed,Good,16,130,6,15,27,2,0,0,11,-0.1361,48,No Risk
+37,Female,Married,Diploma,Rural,Employed,Good,16,130,6,15,27,2,0,0,11,-0.1361,48,No Risk
+25,Male,Single,BA,Rural,Employed,Very Good,16,129,11,15,22,0,0,0,12,-0.087821022,22,No Risk
+26,Female,Single,BA,Rural,Unemployed,Good,26,62,6,14,10,5,8,3,12,0.244,25,Moderate Risk
+48,Female,Married,Diploma,Rural,Household,Medium,24,94,16,28,40,10,6,2,12,-0.18,84,Moderate Risk
+48,Female,Married,Diploma,Rural,Household,Medium,24,94,16,28,40,10,6,2,12,-0.18,84,Moderate Risk
+57,Male,Married,Diploma,Rural,Employed,Medium,19,117,14,27,35,3,4,0,12,0.0174,76,No Risk
+57,Male,Married,Diploma,Rural,Employed,Medium,19,117,14,27,35,3,4,0,12,0.0174,76,No Risk
+57,Male,Married,Diploma,Rural,Employed,Medium,19,117,14,27,35,3,4,0,12,0.0174,76,No Risk
+22,Female,Single,Diploma,Rural,Unemployed,Poor,21,109,11,23,30,3,3,0,12,-0.2224,64,No Risk
+22,Female,Single,Diploma,Rural,Unemployed,Poor,21,109,11,23,30,3,3,0,12,-0.2224,64,No Risk
+41,Female,Single,High School,Rural,Household,Medium,22,114,16,28,40,4,0,0,13,0,84,No Risk
+41,Female,Single,High School,Rural,Household,Medium,22,114,16,28,40,4,0,0,13,0,84,No Risk
+33,Female,Married,Diploma,Rural,Household,Good,15,126,9,15,26,8,13,7,13,-0.405,50,High Risk
+33,Female,Married,Diploma,Rural,Household,Good,15,126,9,15,26,8,13,7,13,-0.183,50,High Risk
+43,Female,Single,High School,Urban,Unemployed,Medium,20,107,16,20,20,0,0,0,14,0.3,32,No Risk
+26,Female,Single,BA,Rural,Unemployed,Good,26,62,6,14,10,5,8,3,14,-0.2,30,Moderate Risk
+26,Female,Single,BA,Rural,Unemployed,Good,26,62,6,14,10,5,8,3,14,-0.2,30,Moderate Risk
+43,Female,Married,Diploma,Rural,Unemployed,Poor,21,49,10,19,29,6,4,0,14,-0.27,78,Low Risk
+37,Female,Married,Diploma,Rural,Employed,Good,16,130,6,15,27,2,0,0,14,-0.266,76,No Risk
+48,Female,Single,BA,Urban,Unemployed,Medium,17,129,12,8,20,3,0,0,14,-0.023184371,40,No Risk
+27,Female,Married,Diploma,Urban,Household,Poor,27,73,16,28,40,8,11,7,14,-0.08951782,60,High Risk
+57,Male,Married,Diploma,Rural,Employed,Medium,19,117,14,27,35,3,4,0,14,-0.101,60,No Risk
+58,Male,Married,BA,Urban,Employed,Medium,27,106,16,24,24,7,0,0,14,-0.2,60,No Risk
+25,Female,Single,BA,Rural,Unemployed,Medium,23,123,11,38,37,8,8,5,15,-0.405,30,Moderate Risk
+30,Male,Single,BA,Urban,Unemployed,Medium,18,90,11,18,32,3,6,1,16,-0.6313,84,Low Risk
+48,Female,Single,BA,Urban,Unemployed,Medium,17,129,12,8,20,3,0,0,16,-0.513529116,84,No Risk
+39,Female,Single,High School,Urban,Unemployed,Poor,18,65,12,10,13,3,1,1,16,-0.34,80,No Risk
+39,Female,Single,High School,Urban,Unemployed,Poor,18,65,12,10,13,3,1,1,16,-0.34,80,No Risk
+25,Female,Married,Diploma,Rural,Unemployed,Medium,16,120,6,17,20,5,8,4,16,-0.183,43,Moderate Risk
+43,Female,Married,Diploma,Rural,Unemployed,Poor,21,49,10,19,29,6,4,0,16,-0.27,78,Low Risk
+33,Male,Single,High School,Rural,Employed,Medium,16,120,8,16,28,4,1,2,16,-0.266,76,No Risk
+37,Female,Married,Diploma,Rural,Employed,Good,16,130,6,15,27,2,0,0,16,-0.266,76,No Risk
+37,Female,Married,Diploma,Rural,Employed,Good,16,130,6,15,27,2,0,0,16,-0.266,76,No Risk
+34,Female,Single,Diploma,Rural,Unemployed,Good,18,119,8,18,24,3,5,3,16,-0.2224,75,Low Risk
+23,Male,Single,BA,Rural,Student,Good,23,85,11,19,30,8,5,1,16,-0.0655,60,Low Risk
+23,Male,Single,BA,Rural,Student,Good,23,85,11,19,30,8,5,1,16,-0.0655,60,Low Risk
+41,Female,Married,High School,Urban,Household,Medium,23,32,14,27,40,1,0,0,18,-0.6801,86,No Risk
+41,Female,Married,High School,Urban,Household,Medium,23,32,14,27,40,1,0,0,18,-0.6801,86,No Risk
+37,Male,Married,BA,Rural,Employed,Poor,26,88,15,26,34,9,13,8,18,-0.6313,75,High Risk
+48,Female,Single,BA,Urban,Unemployed,Medium,17,129,12,8,20,3,0,0,18,-0.513529116,84,No Risk
+37,Female,Married,BA,Rural,Household,Good,22,50,15,20,29,7,7,6,18,-0.4048,64,Moderate Risk
+25,Female,Married,Diploma,Rural,Unemployed,Medium,16,120,6,17,20,5,8,4,19,-0.405,43,Moderate Risk
+25,Female,Married,Diploma,Rural,Unemployed,Medium,16,120,6,17,20,5,8,4,19,-0.405,43,Moderate Risk
+30,Male,Single,BA,Urban,Unemployed,Medium,18,90,11,18,32,3,6,1,20,0.230998339,61,Low Risk
+37,Female,Married,BA,Rural,Household,Good,22,50,15,20,29,7,7,6,20,-0.4048,64,Moderate Risk
+48,Female,Single,BA,Urban,Unemployed,Medium,17,129,12,8,20,3,0,0,21,-0.023184371,40,No Risk
+39,Male,Single,Diploma,Urban,Employed,Medium,13,127,7,11,16,3,0,0,22,0.024,34,No Risk
+39,Male,Single,Diploma,Urban,Employed,Medium,13,127,7,11,16,3,0,0,22,0.024,34,No Risk
+39,Male,Single,Diploma,Urban,Employed,Medium,13,127,7,11,16,3,0,0,22,0.024,34,No Risk
+39,Male,Single,Diploma,Urban,Employed,Medium,13,127,7,11,16,3,0,0,22,0.024,34,No Risk
+39,Male,Single,Diploma,Urban,Employed,Medium,13,127,7,11,16,3,0,0,22,0.024,34,No Risk
+39,Male,Single,Diploma,Urban,Employed,Medium,13,127,7,11,16,3,0,0,22,0.024,34,No Risk
+37,Female,Married,BA,Rural,Household,Good,22,50,15,20,29,7,7,6,22,-0.0096,57,Moderate Risk
+33,Male,Single,Diploma,Urban,Unemployed,Poor,14,124,16,24,38,3,7,3,22,-0.6801,86,Low Risk
+33,Male,Single,Diploma,Urban,Unemployed,Poor,14,124,16,24,38,3,7,3,22,-0.6801,86,Low Risk
+37,Female,Married,BA,Rural,Household,Good,22,50,15,20,29,7,7,6,24,-0.0096,57,Moderate Risk
+37,Female,Married,BA,Rural,Household,Good,22,50,15,20,29,7,7,6,24,-0.0096,57,Moderate Risk
+48,Female,Married,Diploma,Rural,Household,Medium,24,94,16,28,40,10,6,2,24,-0.18,84,Moderate Risk
+37,Male,Married,BA,Rural,Employed,Poor,26,88,15,26,34,9,13,8,24,-0.513529116,84,High Risk
+37,Male,Married,BA,Rural,Employed,Poor,26,88,15,26,34,9,13,8,24,-0.513529116,84,High Risk
+37,Male,Married,BA,Rural,Employed,Poor,26,88,15,26,34,9,13,8,24,-0.513529116,84,High Risk
+37,Male,Married,BA,Rural,Employed,Poor,26,88,15,26,34,9,13,8,24,-0.513529116,84,High Risk
+37,Male,Married,BA,Rural,Employed,Poor,26,88,15,26,34,9,13,8,24,-0.513529116,84,High Risk
+32,Female,Single,BA,Rural,Unemployed,Medium,23,123,11,38,37,8,8,5,25,-0.4048,86,Moderate Risk
+32,Female,Single,BA,Rural,Unemployed,Medium,23,123,11,38,37,8,8,5,25,-0.4048,86,Moderate Risk
+20,Female,Single,BA,Rural,Unemployed,Medium,23,123,11,38,37,8,8,5,26,-0.4048,86,Moderate Risk
+20,Female,Single,BA,Rural,Unemployed,Medium,23,123,11,38,37,8,8,5,26,-0.4048,86,Moderate Risk
+41,Female,Married,High School,Urban,Household,Medium,23,32,14,27,40,1,0,0,27,-0.08951782,81,No Risk
+41,Female,Married,High School,Urban,Household,Medium,23,32,14,27,40,1,0,0,27,-0.08951782,81,No Risk
+41,Female,Married,High School,Urban,Household,Medium,23,32,14,27,40,1,0,0,27,-0.08951782,81,No Risk
+41,Female,Married,High School,Urban,Household,Medium,23,32,14,27,40,1,0,0,27,-0.08951782,70,No Risk
+48,Female,Married,Diploma,Rural,Household,Medium,24,94,16,28,40,10,6,2,27,-0.18,84,Moderate Risk
+48,Female,Married,Diploma,Rural,Household,Medium,24,94,16,28,40,10,6,2,27,-0.18,84,Moderate Risk
+48,Female,Married,Diploma,Rural,Household,Medium,24,94,16,28,40,10,6,2,27,-0.18,84,Moderate Risk
+48,Female,Married,Diploma,Rural,Household,Medium,24,94,16,28,40,10,6,2,27,-0.18,84,Moderate Risk
+48,Female,Married,Diploma,Rural,Household,Medium,24,94,16,28,40,10,6,2,27,-0.18,84,Moderate Risk
+41,Female,Married,High School,Urban,Household,Medium,23,32,14,27,40,1,0,0,27,-0.6801,75,No Risk
+19,Female,Single,High School,Urban,Unemployed,Medium,27,128,16,28,40,9,14,8,27,-0.2224,75,High Risk
+19,Female,Single,High School,Urban,Unemployed,Medium,27,128,16,28,40,9,14,8,27,-0.2224,75,High Risk
+19,Female,Single,High School,Urban,Unemployed,Medium,27,128,16,28,40,9,14,8,27,-0.2224,75,High Risk
+41,Female,Married,High School,Urban,Household,Medium,23,32,14,27,40,1,0,0,27,-0.6801,77,No Risk
+37,Male,Married,BA,Rural,Employed,Poor,26,88,15,26,34,9,13,8,27,-0.6313,75,High Risk
+37,Male,Married,BA,Rural,Employed,Poor,26,88,15,26,34,9,13,8,27,-0.6313,75,High Risk
+37,Male,Married,BA,Rural,Employed,Poor,26,88,15,26,34,9,13,8,27,-0.6313,75,High Risk
+37,Male,Married,BA,Rural,Employed,Poor,26,88,15,26,34,9,13,8,27,-0.6313,75,High Risk
+19,Female,Single,High School,Urban,Unemployed,Medium,27,128,16,28,40,9,14,8,27,-0.6801,84,High Risk
+19,Female,Single,High School,Urban,Unemployed,Medium,27,128,16,28,40,9,14,8,27,-0.6801,84,High Risk
+19,Female,Single,High School,Urban,Unemployed,Medium,27,128,16,28,40,9,14,8,27,-0.6801,84,High Risk
+33,Male,Single,Diploma,Urban,Unemployed,Poor,14,124,16,24,38,3,7,3,27,-0.6801,86,Low Risk
+33,Male,Single,Diploma,Urban,Unemployed,Poor,14,124,16,24,38,3,7,3,27,-0.6801,86,Low Risk
+41,Female,Married,High School,Urban,Household,Medium,23,32,14,27,40,1,0,0,27,-0.6801,86,No Risk
+41,Female,Married,High School,Urban,Household,Medium,23,32,14,27,40,1,0,0,27,-0.6801,86,No Risk
+41,Female,Married,High School,Urban,Household,Medium,23,32,14,27,40,1,0,0,27,-0.6801,86,No Risk
+41,Female,Married,High School,Urban,Household,Medium,23,32,14,27,40,1,0,0,27,-0.6801,86,No Risk
+41,Female,Married,High School,Urban,Household,Medium,23,32,14,27,40,1,0,0,27,-0.6801,86,No Risk
+41,Female,Married,High School,Urban,Household,Medium,23,32,14,27,40,1,0,0,27,-0.6801,86,No Risk
+33,Male,Single,Diploma,Urban,Unemployed,Poor,14,124,16,24,38,3,7,3,27,-0.6801,86,Low Risk
+33,Male,Single,Diploma,Urban,Unemployed,Poor,14,124,16,24,38,3,7,3,27,-0.6801,86,Low Risk
+41,Female,Married,High School,Urban,Household,Medium,23,32,14,27,40,1,0,0,27,-0.6801,86,No Risk
+41,Female,Married,High School,Urban,Household,Medium,23,32,14,27,40,1,0,0,27,-0.6801,86,No Risk
+30,Male,Single,BA,Urban,Unemployed,Medium,18,90,11,18,32,3,6,1,27,-0.6313,84,Low Risk
+30,Male,Single,BA,Urban,Unemployed,Medium,18,90,11,18,32,3,6,1,27,-0.6313,84,Low Risk
+30,Male,Single,BA,Urban,Unemployed,Medium,18,90,11,18,32,3,6,1,27,-0.6313,84,Low Risk
+30,Male,Single,BA,Urban,Unemployed,Medium,18,90,11,18,32,3,6,1,27,-0.6313,84,Low Risk
+19,Female,Single,High School,Urban,Unemployed,Medium,27,128,16,28,40,9,14,8,27,-0.4048,84,High Risk
+19,Female,Single,High School,Urban,Unemployed,Medium,27,128,16,28,40,9,14,8,27,-0.4048,84,High Risk
+19,Female,Single,High School,Urban,Unemployed,Medium,27,128,16,28,40,9,14,8,27,-0.4048,84,High Risk
+19,Female,Single,High School,Urban,Unemployed,Medium,27,128,16,28,40,9,14,8,27,-0.4048,84,High Risk
+19,Female,Single,High School,Urban,Unemployed,Medium,27,128,16,28,40,9,14,8,27,-0.4048,84,High Risk
+19,Female,Single,High School,Urban,Unemployed,Medium,27,128,16,28,40,9,14,8,27,-0.405,84,High Risk
+37,Male,Married,BA,Rural,Employed,Poor,26,88,15,26,34,9,13,8,27,-0.513529116,84,High Risk
